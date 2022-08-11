@@ -1,0 +1,135 @@
+.logo-header {
+  width: 200px;
+  height: 200px
+}
+
+body {
+  font-family: calibri;
+  margin-left: 10px
+}
+
+footer {
+  font-style: italic;
+  position: fixed;
+}
+
+h1{
+color: darkgreen;
+font-weight: bold;
+}
+
+h2{
+  font-weight: bolder;
+}
+
+h3{
+  color: darkgreen;
+}
+
+h4{
+  margin-bottom: 0;
+}
+
+h5{
+  font-style: italic;
+}
+
+.info {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+
+.nav {
+  font-size: 20px;
+  border: solid;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-color: darkgreen;
+  color: darkgreen;
+  margin-right: 12px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  column-gap: 15px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.article-1 {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+}
+
+.article-2 {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+}
+
+.article-3 {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+}
+
+.adres-opening {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.duur-prijzen {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.contact {
+  border: solid;
+  border-width: 2px;
+  border-color: darkgreen;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.afbeeldingen {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.afb-1 {
+  height: 300px;
+  width: 400px;
+  margin-right: 10px;
+}
+
+.afb-2 {
+  height: 300px;
+  width: 400px;
+  margin-right: 10px;
+}
+
+.afb-3 {
+  height: 300px;
+  width: 400px;
+  margin-right: 10px;
+}
+
+.afb-4 {
+  height: 250px;
+  width: 285px;
+
+}
